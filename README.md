@@ -1,8 +1,3 @@
-This is a README file for the test repo.
+# my-portfolio
 
-This is my test project.
-It is a portfolio website where it contains all my project details everything that I made 
-
-Currently it is in progress.
-
-Thanks!!
+Hey! Welcome to my portfolio, It's coming up tomorrow when I learn HTML, CSS with Tanay Pratap live on YouTube.!!
